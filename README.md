@@ -49,6 +49,7 @@ yarn start
 ```
 
 # Output Sample
+![RickMortyGraphQLAPI](https://github.com/tomsouza4/query-graphql-data-from-rickandmortyapi/assets/11336182/9f706d4c-0d0a-4114-94f1-052dd65a37c2)
 
 
 
